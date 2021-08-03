@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!--<listeners> <listener class-name="" /> </listeners>
+	 <groups> <run> <include 
+		name="" /> </run> </groups>
+		<parameter name="" value="" /> -->
+	
+	<test name="Test">
+		<classes>
+			<class name="com.qa.test.Test1" />
+			<!--<methods> <include name=""/> </methods> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
